@@ -1,1 +1,1 @@
-<img src="loophol.svg">
+<img src="loophole.svg">
