@@ -1,1 +1,1 @@
-![](./path/loophole.svg)
+<img src="loophol.svg">
